@@ -1,6 +1,5 @@
 # Exp 5 Implementation-of-Logistic-Regression-Using-Gradient-Descent
-### NAME: THIRISHA.S
-### Register Number: 212222230160
+
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
@@ -18,10 +17,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
    Regression value.
 
 ## Program:
-
 ### Program to implement the Logistic Regression Using Gradient Descent.
-
 ```
+ NAME: LEANN JOBY MATHEW
+ Register Number: 212222230074
+```
+
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
