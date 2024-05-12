@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Program:
 ### Program to implement the Logistic Regression Using Gradient Descent.
 ```
- NAME: LEANN JOBY MATHEW
- Register Number: 212222230074
+ NAME: THIRISHA.S
+ Register Number: 212222230160
 ```
 
 ```python
